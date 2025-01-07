@@ -1,0 +1,12 @@
+POST http://localhost:8080/api/teachers
+Content-Type: application/json
+Authorization: Bearer 4edaab73ddc1d05a06c7d3353f5f19984305e6cdeb1f63e1e25e79fac17f4adac87b5b25f39dc556186af7299851b66c31f7b69e6f830af033c0bb2e0cf01ffc52306874d269390442fc73cce0354263f8384c5a0763744cd126f67e161f56e59823c892024eaef004969b1d9bee6f2ea58406910761d04d81aecb666cdc53cd
+
+{
+    "data": 
+        {
+            "name": "Pimladda",
+            "mobile": "0930359658",
+            "cardId": "6602041520152"
+        }
+}
